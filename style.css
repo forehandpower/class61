@@ -1,0 +1,16 @@
+#apps{
+    background-color: lightcoral;
+
+}
+#games{
+    background-color:lightgreen ;
+}
+#chatbot{
+    background-color: lightblue;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 10px;
+}
